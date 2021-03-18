@@ -68,3 +68,8 @@ _[百度]_ (https://www.baidu.com/)
 
 {别不信}(biebuxin)
 
+# 显示代码
+
+```python
+print('hello word')
+```
