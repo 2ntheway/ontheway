@@ -73,7 +73,7 @@ print('hello word')
 ## github 注册
 
 1. 使用可用邮箱注册账号，并进行邮箱验证
-2. 配置SSH讲git查看到的密匙复制进**SSH and GPG keys[^2]**中
+2. 配置SSH将git查看到的密匙复制进**SSH and GPG keys[^2]**中
 
 ## git安装
 
