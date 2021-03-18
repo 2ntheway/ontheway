@@ -70,12 +70,12 @@ _[百度]_ (https://www.baidu.com/)
 print('hello word')
 ```
 
-## github 注册
+## 2 github 注册
 
 1. 使用可用邮箱注册账号，并进行邮箱验证
 2. 配置SSH将git查看到的密匙复制进**SSH and GPG keys[^2]**中
 
-## git安装
+## 3 git安装
 
 1. 官网下载安装程序64位
 2. 打开git命令行工具执行**ssh-keygen**生成密钥
