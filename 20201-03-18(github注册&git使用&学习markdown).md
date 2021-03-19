@@ -93,9 +93,10 @@ print('hello word')
 
 2、Html5 语法
 
-
+![image-20210319100247018](20201-03-18(github注册&git使用&学习markdown).assets/image-20210319100247018.png)
 
 [^2]: 登录后点击头像选址Settings
 [^1]: 是指掌握多种技能，并能利用多种技能独立完成产品的人
 
-![image-20210319093622580](E:\个人\2021学习\ontheway\image\image-20210319093622580.png)
+
+
