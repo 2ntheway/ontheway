@@ -1,0 +1,12 @@
+const products = [
+    { product: 'banana', price: 3 },
+    { product: 'mango', price: 6 },
+    { product: 'potato', price: 1 },
+    { product: 'avocado', price: 8 },
+    { product: 'coffee', price: 10 },
+    { product: 'tea', price: 1 },
+  ]
+
+//求和结果出不来
+const sum = products.reduce((acc,cur) =>acc['price']+cur['price'])
+console.log(sum)
